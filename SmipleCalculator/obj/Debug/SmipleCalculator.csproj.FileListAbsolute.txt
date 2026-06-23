@@ -1,0 +1,10 @@
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\bin\Debug\SmipleCalculator.exe.config
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\bin\Debug\SmipleCalculator.exe
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\bin\Debug\SmipleCalculator.pdb
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\obj\Debug\SmipleCalculator.csproj.AssemblyReference.cache
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\obj\Debug\SmipleCalculator.Form1.resources
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\obj\Debug\SmipleCalculator.Properties.Resources.resources
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\obj\Debug\SmipleCalculator.csproj.GenerateResource.cache
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\obj\Debug\SmipleCalculator.csproj.CoreCompileInputs.cache
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\obj\Debug\SmipleCalculator.exe
+M:\Coding\DotNet-GUI-Projects\SmipleCalculator\obj\Debug\SmipleCalculator.pdb
